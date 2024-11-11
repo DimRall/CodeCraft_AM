@@ -3,6 +3,7 @@ public class AM {
         System.out.println("Δημήτρης Ράλλης -> 8220229");
         System.out.println("Παναγιωτης Αναστοπουλος = 8220007");
         System.out.println("Βασιλείου Ιοκάστη ->8230013");
-        System.err.println("Ντερτινης Αποστολος = 8220108");
+        System.out.println("Ντερτινης Αποστολος = 8220108");
+        System.out.println("Αχνιώτης Σταύρος = 8230231");
     }
-} 
+}
