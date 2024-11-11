@@ -5,5 +5,6 @@ public class AM {
         System.out.println("Βασιλείου Ιοκάστη ->8230013");
         System.out.println("Ντερτινης Αποστολος = 8220108");
         System.out.println("Αχνιώτης Σταύρος = 8230231");
+        System.out.println("Σταματοπούλου Χρύσα Δέσποινα = 8230139");
     }
 }
